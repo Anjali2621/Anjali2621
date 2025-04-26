@@ -14,6 +14,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anjali2621&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anjali2621&theme=maroongold&hide_border=false)<br/>
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anjali2610)  
+📧 Email: [your.email@example.com](mailto:anjali2604singh@gmail.com)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
