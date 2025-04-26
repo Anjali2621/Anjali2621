@@ -18,6 +18,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali2610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjali2604singh@gmail.com) 
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Anjali2621&icon=0&color=5)](https://visitcount.itsvg.in)
 
