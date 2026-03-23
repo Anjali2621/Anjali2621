@@ -13,6 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anjali2621&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anjali2621&theme=maroongold&hide_border=false)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali2621&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph.svg">
