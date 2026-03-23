@@ -13,7 +13,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anjali2621&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anjali2621&theme=maroongold&hide_border=false)<br/>
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Anjali2621/Anjali2621/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### ✍️ Random Dev Quote
