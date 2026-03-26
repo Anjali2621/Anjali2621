@@ -21,7 +21,4 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Anjali2621&icon=0&color=5)](https://visitcount.itsvg.in)
-
 
